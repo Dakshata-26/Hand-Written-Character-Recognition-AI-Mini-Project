@@ -1,0 +1,1 @@
+# Hand-Written-Character-Recognition-AI-Mini-Project
