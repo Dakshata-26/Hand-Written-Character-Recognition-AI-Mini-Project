@@ -14,16 +14,16 @@ The objective of this project is to identify handwritten characters with the use
  
 ## Project Prerequisites
 Below are the prerequisites for this project: 
-1.	Python (3.7.4 used) 
-2.	IDE (Jupyter used) 
+-	Python (3.7.4 used) 
+-	IDE (Jupyter used) 
 
 ## Required frameworks are 
-1.	Numpy (version 1.16.5) 
-2.	cv2 (openCV) (version 3.4.2) 
-3.	Keras (version 2.3.1) 
-4.	Tensorflow (Keras uses TensorFlow in backend and for some image preprocessing) (version 2.0.0) 
-5.	Matplotlib (version 3.1.1) 
-6.	Pandas (version 0.25.1) 
+-	Numpy (version 1.16.5) 
+-	cv2 (openCV) (version 3.4.2) 
+-	Keras (version 2.3.1) 
+-	Tensorflow (Keras uses TensorFlow in backend and for some image preprocessing) (version 2.0.0) 
+-	Matplotlib (version 3.1.1) 
+-	Pandas (version 0.25.1) 
 
 ## Dataset Details 
 The dataset contains 26 folders (A-Z) containing handwritten images in size 2828 pixels, each alphabet in the image is centre fitted to 2020-pixel box. All present in the form of a CSV file. 
